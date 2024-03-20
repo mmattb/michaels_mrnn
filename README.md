@@ -10,3 +10,6 @@ Vol. 117 | No. 50
 December 15, 2020*
 
 [Full text](https://www.pnas.org/doi/full/10.1073/pnas.2005087117)
+
+## Example code
+See example.ipynb
